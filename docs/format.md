@@ -70,7 +70,7 @@ datetime("2021-07-03").format("'Year is: 'YYYY"); // Year is: 2021
 | s      | seconds, one or two digits                | 30                    |
 | ss     | seconds, two digits                       | 07                    |
 | S      | milliseconds, three digits                | 999                   |
-| w      | day of the week, 1 is Monday, 7 is Sunday | 7                     |
+| w      | day of the week, 1 is Monday, 0 is Sunday | 5                     |
 | www    | short week string                         | Fri                   |
 | wwww   | long week string                          | Friday                |
 | W      | iso week number, one or two digits        | 52                    |
